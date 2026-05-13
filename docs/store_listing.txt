@@ -1,0 +1,15 @@
+App name
+JECKER ANDRE
+
+Short description
+Coordinate shifts, patient work files, tasks, and containers in a local operations app.
+
+Full description
+JECKER ANDRE helps operations teams keep daily work moving with focused boards for shift scheduling, patient work files, task management, and container tracking.
+
+Create local records with an owner, due detail, status, priority, and notes. Use the daily dashboard to review urgent work, open coverage, patient follow-up, and container items that need action.
+
+The app works without account registration, cloud sync, analytics, advertising, external APIs, or Android permissions. Records stay in local app storage on the device.
+
+Category
+Business

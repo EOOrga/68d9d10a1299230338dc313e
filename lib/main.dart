@@ -22,8 +22,8 @@ class JeckerApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primary = Color(0xFF1A547E);
-    const secondary = Color(0xFF29708C);
+    const primary = Color(0xFF8BC34A);
+    const secondary = Color(0xFF558B2F);
     const surface = Color(0xFFF6F8F7);
 
     final scheme =
@@ -358,7 +358,7 @@ final _sampleRecords = <OpsRecord>[
   const OpsRecord(
     id: 'shift-1',
     type: RecordType.shift,
-    title: 'Morning intake desk',
+    title: 'JECKER ANDRE',
     subtitle: 'Front desk and care routing',
     status: 'In progress',
     owner: 'Nadia',

@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.jeckerandre.operations"
+        applicationId = "com.jeckerandre.nfnfd"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
